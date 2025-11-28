@@ -23,6 +23,10 @@ body {
     text-align: center; 
    }
 
+body p {
+    text-align: justify; 	
+}
+
 #nav {
     display: inline-block;
     padding-left: 40px;
@@ -117,5 +121,6 @@ footer {
     color: white;
 
 }
+
 
 
