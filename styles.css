@@ -108,7 +108,12 @@ footer {
  height: 5px;
 }
 
+.memorial p{
+	text-align: justify;
+}
+
 .goals {
     background-color: black;
     color: white;
+
 }
